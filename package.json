@@ -1,0 +1,16 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "shelby",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1",
+    "pug": "^3.0.2"
+  }
+}
